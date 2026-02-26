@@ -1,2 +1,3 @@
 Hello, this is Seth doing a git-test run.
 More changes
+VS Code as default editor
